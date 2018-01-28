@@ -12,3 +12,7 @@ Android users can get back a bit of this process using [F-droid](https://f-droid
 ```(plain-text)
 F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 ```
+
+## Sources
+
+- [Android Users: To Avoid Malware, Try the F-Droid App Store](https://www.wired.com/story/android-users-to-avoid-malware-ditch-googles-app-store/)

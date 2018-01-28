@@ -29,11 +29,12 @@ This module is different from others, it's a bit shorter and explains what is a 
 - Private browsing
 - Communications: Instant messagging, PGP, Communication codes
 - Habits: How to do the things, basis for how to develop critical thinking about security
+- Mobile security
 
 ### Module 2 - Taking scurity serious
 
 - Operational security
-- Mobile security
+- Operating systems
 
 ## Module 3 - Advanced security
 

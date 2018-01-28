@@ -101,7 +101,7 @@ They want their version fo your profile to be as complete as possible so thay ca
 
 - Take care of places you visit
 - Use tracking protection extensions like:
-  - Privacy badger (EFF)
+  - [Privacy badger](https://www.eff.org/privacybadger) (EFF)
   - [Ghostery](www.ghostery.com)
   - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
   - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
@@ -127,6 +127,8 @@ They want their version fo your profile to be as complete as possible so thay ca
 ### Facebook
 
 Run away it's evil !
+
+If you need to use it [here](https://www.techlicious.com/tip/complete-guide-to-facebook-privacy-settings/) you have a nice guide about how to improve Facebook's security. [Wired](https://www.wired.com/video/facebook-security/) did a nice video too.
 
 ### Twitter
 

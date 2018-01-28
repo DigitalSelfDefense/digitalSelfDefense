@@ -159,6 +159,8 @@ Requires invitation
 - [Allows to easily send encrypted emails to anyone](https://tutanota.uservoice.com/knowledgebase/articles/470795-how-do-i-send-an-encrypted-email-to-an-external-re)
 - No PGP, custom protocol that uses RSA and AES
 
+#### Protonmail
+
 ## Calls
 
 ### Voice calls
@@ -176,6 +178,10 @@ Some providers that offer voice calls:
 
 If your, or any person you love, physical security or freedom depends or may depend on the information you want to share, don't do it online.
 Allways prefer to see your interlocutor in person and in a safe place when possible.
+
+## Related  articles
+
+- [Attack of the Week: Group Messaging in WhatsApp and Signal](https://blog.cryptographyengineering.com/2018/01/10/attack-of-the-week-group-messaging-in-whatsapp-and-signal/)
 
 ## Sources
 
