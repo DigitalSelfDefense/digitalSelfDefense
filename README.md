@@ -22,21 +22,22 @@ The modules are organized on different levels but the different parts of every m
 
 ### Module 0 - Secrets
 
-This module is different from others, it's a bit shorter and explains what is a safe password, how to store them.
+- Password management: what is a safe password and how to store them.
 
 ### Module 1 - The basics
 
-- Private browsing
-- Communications: Instant messagging, PGP, Communication codes
-- Habits: How to do the things, basis for how to develop critical thinking about security
-- Mobile security
+- [Private browsing]({{ site.baseUrl }}{% link _site/1_basics/browsing/README.md %})
+- [Communications]({{ site.baseUrl }}{% link _site/1_basics/communications/README.md %}): Instant messagging, PGP, Communication codes
+- [Habits]({{ site.baseUrl }}{% link _site/1_basics/habits/README.md %}): How to do the things, basis for how to develop critical thinking about security
+- [Mobile security]({{ site.baseUrl }}{% link _site/1_basics/mobile/README.md %})
+- [Working together]({{ site.baseUrl }}{% link _site/1_basics/working_together/README.md %})
 
 ### Module 2 - Taking scurity serious
 
 - Operational security
 - Operating systems
 
-## Module 3 - Advanced security
+### Module 3 - Advanced security
 
 - Under the radar
 
