@@ -1,13 +1,11 @@
 # Private browsing
 
-## Browsers
-
-### Firefox
+## Firefox
 
 - Allows tracking protection by default (v57+)
 - [Sandboxing the browser](http://www.morbo.org/2017/11/linux-sandboxing-improvements-in.html)
 
-#### Hardening firefox
+### Hardening firefox
 
 Most of the follwing information has been taken from VikingVPN's [Hardening Mozilla Firefox Quantum For Privacy & Security 2018 Edition](https://vikingvpn.com/cybersecurity-wiki/browser-security/guide-hardening-mozilla-firefox-for-privacy-and-security)
 
@@ -23,7 +21,7 @@ Some basic privacy and security settings
     - Ask you every time
     - Queries OCSP
 
-Some more advanced settings
+### Hardening firefox - Advanced
 
 - Type `about:config` on the search bar, this will open the advanced settings
   - Disable the WebRTC service
@@ -53,9 +51,14 @@ Some more advanced settings
   - Disable telemtry
     - Search `telemetry` and set all true/false options to false
 
-### Chrome
+## Chrome
 
-### Mobile
+Go to chrome advanced settings:
+
+- Disable third party cookies
+- Enable cookie reset after every browsing session
+
+## Mobile
 
 Give a try to [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/), mozillas privacy aware mobile browser, it has integrated  some interesting feautes like:
 
@@ -67,17 +70,6 @@ Advice: dsable data collecting
 
 - Settings > "send anonymous usage data" > off
 
-#### Hardening chrome
-
-Go to chrome advanced settings:
-
-- Disable third party cookies
-- Enable cookie reset after every browsing session
-
-## HTTPS (green lock)
-
-- Use [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) extensions
-
 ## Tracking
 
 ### What?
@@ -86,8 +78,8 @@ Go to chrome advanced settings:
 If you're not paying for a service, you're the product, not the customer.
 ```
 
-SItes you visit, time you spent there, articles you read... all these areavailable informations for people that want to know more about you.
-They want their version fo your profile to be as complete as possible so thay can sell it for advertising, 
+Sites you visit, time you spent there, articles you read... all these areavailable informations for people that want to know more about you.
+They want their version fo your profile to be as complete as possible so thay can sell it for advertising.
 
 ### Who?
 
@@ -107,11 +99,37 @@ They want their version fo your profile to be as complete as possible so thay ca
   - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
 - Ad blocking extension helps also:
   - [uBlock](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- Prevent fingerprinting:
+  - [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/)
 
 ## Search engines
 
-- Duckduckgo
-- Lilo
+- [Duckduckgo](https://duckduckgo.com/)
+
+## Https
+
+### How to protect you
+
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+
+## VPN
+
+Virtual private networks (vpn)
+
+### Why are they useful
+
+- hide your real IP from the sites you visit, allowing you to prevent censure
+- encrypt the trafic before you trafic reaches the network, protecting you from attackers on your own network
+
+### When they can become dangerous
+
+- VPN doesn't make you anonymous, they still know your real identity. If your  online activity requires complete anonimity [TOR](https://www.torproject.org/) may be a better option.
+
+### VPN providers
+
+- [ProtonVPN](https://protonvpn.com) - Available on mobile
+- RiseUp
+- VikingVpn
 
 ## Social networks
 
@@ -128,23 +146,26 @@ They want their version fo your profile to be as complete as possible so thay ca
 
 Run away it's evil !
 
-If you need to use it [here](https://www.techlicious.com/tip/complete-guide-to-facebook-privacy-settings/) you have a nice guide about how to improve Facebook's security. [Wired](https://www.wired.com/video/facebook-security/) did a nice video too.
+If you need to use it [here](https://www.techlicious.com/tip/complete-guide-to-facebook-privacy-settings/) you have a nice guide about how to improve Facebook's security.
+[Wired](https://www.wired.com/video/facebook-security/) did a nice video too.
 
 ### Twitter
 
-- Possible to create an anonymous account:
-  - These are extremlly simplified explanations of the process, follow them at your own risk
-  - What do you need:
-    - PC with Tails or Qubes and TOR browser installed
-    - Single use SIM card + phone (Never used before, bought in cash in a place without cameras)
-    - Public internet connection in a place with no cameras
-    - Anonymous email
-  - How to do it:
-    1. Go to a place with a public network
-    1. Connect to twitter using TOR browser
-    1. Put the SIM card on the phone and activate it
-    1. Sign up using your anonymous emaila address an phone number
-    1. Have fun ! And never connect this account from a mobile device and use TOR on you main PC
+Possible to create an anonymous account:
+These are extremlly simplified explanations of the process, follow them at your own risk
+
+- What do you need:
+  - PC with Tails or Qubes and TOR browser installed
+  - Single use SIM card + burner phone (Never used before, bought in cash in a place without cameras)
+  - Public internet connection in a place with no cameras
+  - Anonymous email
+- How to do it:
+  1. Go to a place with a public network
+  1. Try to avoid surveillance cameras
+  1. Connect to twitter using TOR browser
+  1. Put the SIM card on the phone and activate it
+  1. Sign up using your anonymous emaila address an phone number
+  1. Have fun ! And never connect this account from a mobile device and use TOR on you main PC
 
 ## Downloads
 

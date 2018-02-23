@@ -23,10 +23,10 @@ Someone that wants to look at the data
 
 ### What does it NOT protect me from? Limits of the encryption
 
-If the device is already compromised (Key logger, surveiled...).
-Anyone surveying the network (live or just stocking the information) will still know that I talked with you today at 22h for 35 minutes
-They will know that after I called my doctor
-They will know that then I visited a pharmacy web site
+- If the device is already compromised (Key logger, surveiled...).
+- Anyone surveying the network (live or just stocking the information) will still know that I talked with you today at 22h for 35 minutes
+- They will know that after I called my doctor
+- They will know that then I visited a pharmacy web site
 
 ### How does it work?
 
@@ -49,9 +49,9 @@ End to End ecryption means that only the individuals taking part on the conversa
 
 #### Why?
 
-End to end encryption
-Created by a non-profit organization
-Open source
+- End to end encryption
+- Created by a non-profit organization
+- Open source
 
 #### What does it do?
 
@@ -96,14 +96,11 @@ Don't open your email never with a non https connection.
 
 #### Two factor authentication  2FA
 
-What it is ?
-
-You login with two different elements:
-These elements usually are somehting you  know (passphrase) and something you have (your phone)
-
-How  to use it?
-
-Most email and social network providers allow you to activate it
+- What it is ?
+    - You login with two different elements:
+    - These elements usually are somehting you  know (passphrase) and something you have (your phone)
+- How  to use it?
+    - Most email and social network providers allow you to activate it
 
 #### From field
 
@@ -112,15 +109,15 @@ The attacker may have used an address similar to the original, carefully check t
 
 #### Attachements
 
-First rule: try to don't download an attachement, specially if it isn't something you have been waiting for!
-Second rule: if you need to open an attachement try to open it on a safe environment (Google drive), a  computer that isn't connected to the network, a virtual machine...
-Take care specially of `.js`  and `.wsh` files. Set your browser  settings to don't run automatically these files or configure your OS to use a text editor.
+- First rule: try to don't download an attachement, specially if it isn't something you have been waiting for!
+- Second rule: if you need to open an attachement try to open it on a safe environment (Google drive), a  computer that isn't connected to the network, a virtual machine...
+- Take care specially of `.js`  and `.wsh` files. Set your browser  settings to don't run automatically these files or configure your OS to use a text editor.
 
 #### Links
 
 Avoid clicking links on emails.
 Validate that the domain exists and you know it.
-Specially if they are  shrotened urls.
+Specially if they are shrotened urls.
 
 ### Encrypted email - PGP
 

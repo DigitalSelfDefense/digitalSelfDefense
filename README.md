@@ -45,3 +45,7 @@ This module is different from others, it's a bit shorter and explains what is a 
 ### Documentaries
 
 - [Nothing to Hide](https://vimeo.com/nothingtohide)
+
+### Books
+
+- The art of Invisibility - Kevin Mitnick
