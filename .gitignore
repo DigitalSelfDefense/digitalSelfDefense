@@ -33,3 +33,8 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+
+## Jekyll
+_site
+.sass-cache
+.jekyll-metadata
