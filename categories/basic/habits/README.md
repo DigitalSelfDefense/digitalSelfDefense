@@ -1,3 +1,7 @@
+---
+category: basic
+permalink: /basic/habits/
+---
 # Habits that will make your digital life safer
 
 ## Free software
@@ -11,9 +15,8 @@
 
 ### Open Source
 
-- Open source means security, all the community is able to detect and fix security updates
+- Open source means security, all the community is able to detect and fix security issues.
 - Community driven security has been proved to be more efficient in core security projects.
-- One exception: Chrome is safer than Mozilla. IF AND ONLY IF YOU DON'T CARE OF GOVERNMENT.
 
 ## Updates
 
@@ -32,4 +35,4 @@ Back up your information on a regular basis.
 - No confidential: online backup (MEGA, sync.com)
 - Confidential: Encryption + USB sticks
 
-On cloud providers look for: End to End encryption and security reviews
+On cloud providers look for: End to End encryption and security reviews.

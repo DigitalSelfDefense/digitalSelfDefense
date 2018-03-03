@@ -1,4 +1,6 @@
-
+---
+published: false
+---
 # OS
 
 ## Linux based systems

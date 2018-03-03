@@ -1,0 +1,20 @@
+<div class="sidebar">
+    <div class="container sidebar-sticky">
+        <div class="sidebar-about">
+            <h1>
+                <a href="{{ site.baseurl }}/">
+                {{ site.title }}
+                </a>
+            </h1>
+            <p class="lead">{{ site.description }}</p>
+        </div>
+    
+        <nav class="sidebar-nav">
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/secrets">#secrets</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/basic">#basic</a>
+            <!-- <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/serious">#serious</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/advanced">#advanced</a> -->
+            <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+        </nav>    
+    </div>
+</div>

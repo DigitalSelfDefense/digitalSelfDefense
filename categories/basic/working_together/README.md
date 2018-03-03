@@ -1,3 +1,7 @@
+---
+category: basic
+permalink: /basic/working_together/
+---
 # Working together to became free
 
 This module will suggest different tools for collaboration and wrking collectivelly that respect your privacy.

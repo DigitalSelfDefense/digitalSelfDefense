@@ -1,8 +1,15 @@
+---
+category: secrets
+permalink: /secrets/passwords/
+---
 # Passwords
 
 This part is different from others, it's a bit shorter and explains what is a safe password and how to store them.
 
-"Passwords are like underwear: you do' let people see it, you should change it very often, and you should' share it with strangers." Chris Pirillo
+```
+Passwords are like underwear: you don't let people see it, you should change it very often, and you shouldn't share it with strangers.
+- Chris Pirillo
+```
 
 ## Secure passwords
 
@@ -48,9 +55,10 @@ Single point of failure, if it’s compromised = Game Over :(
 ### On the cloud
 
 Some provider allow you to synchronize on the cloud
-Easier to use across multiple devices
-They ***WILL*** know which service to use and when
-They ***MAY*** know your password
+
+- Easier to use across multiple devices
+- They ***WILL*** know which service you use and when
+- They ***MAY*** know your password
 
 ### KeePassX
 
@@ -67,21 +75,16 @@ KeePassX is an application for people with extremly high demands on secure perso
 Passwords are stored  on databases
 Each database is protected by a password, key file, or both
 
-//TODO pass to table
-A file on external storage
-For
-Harder to guess
-than a password (usually)
-Against
-Like a physical key
-if you lose you are fucked
+|               For               |                       Against                      |
+|:-------------------------------:|:--------------------------------------------------:|
+| Harder to guess than a password | Like a physical key, if you lose it you are fucked |
 
 #### Mobile devices
 
 Same db can be used across many platforms.
 Mobile devices are less secure, copy just the passwords you will need when you are outdoors
 
-## Passwords maintenance
+## Password maintenance
 
 Passwords should be changed on a regular basis
 Don't reuse the same password, or varaitions of it multiple times

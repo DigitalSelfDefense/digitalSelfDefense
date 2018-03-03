@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Operational Security
 
 ## Physical security
