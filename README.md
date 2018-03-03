@@ -20,27 +20,6 @@ If the given information or activity threatens your life/freedom and you can avo
 
 The modules are organized on different levels but the different parts of every module have no specific order.
 
-### Module 0 - Secrets
-
-- [Password management]({{ site.baseurl }}{% link  0_secrets/passwords/README.md %}): what is a safe password and how to store them.
-
-### Module 1 - The basics
-
-- [Private browsing]({{ site.baseurl }}{% link 1_basics/browsing/README.md %})
-- [Communications]({{ site.baseurl }}{% link 1_basics/communications/README.md %}): Instant messagging, PGP, Communication codes
-- [Habits]({{ site.baseurl }}{% link 1_basics/habits/README.md %}): How to do the things, basis for how to develop critical thinking about security
-- [Mobile security]({{ site.baseurl }}{% link 1_basics/mobile/README.md %})
-- [Working together]({{ site.baseurl }}{% link 1_basics/working_together/README.md %})
-
-### Module 2 - Taking scurity serious
-
-- Operational security
-- Operating systems
-
-### Module 3 - Advanced security
-
-- Under the radar
-
 ## Other resources
 
 ### Documentaries

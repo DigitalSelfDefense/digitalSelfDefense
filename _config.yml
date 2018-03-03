@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
-baseurl: "/digitalSelfDefense"
-url: "digitalselfdefense.github.io"
-permalink: "/:title"
+baseurl: /digitalSelfDefense
+url: digitalselfdefense.github.io
+title: Digital Self Defense
+description: Defend the digital you

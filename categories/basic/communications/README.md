@@ -1,3 +1,7 @@
+---
+category: basic
+permalink: /basic/communications/
+---
 # Communications
 
 ## Security by default

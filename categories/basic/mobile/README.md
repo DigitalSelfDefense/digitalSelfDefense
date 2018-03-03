@@ -1,3 +1,7 @@
+---
+category: basic
+permalink: /basic/mobile/
+---
 # Mobile
 
 ## Android

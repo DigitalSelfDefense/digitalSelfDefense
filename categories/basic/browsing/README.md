@@ -1,3 +1,7 @@
+---
+category: basic
+permalink: /basic/private_browsing/
+---
 # Private browsing
 
 ## Firefox
